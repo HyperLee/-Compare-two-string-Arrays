@@ -1,0 +1,12 @@
+D:\devc_code\Visual Studio_Code\list_prcatice\list_prcatice\bin\Debug\list_prcatice.exe.config
+D:\devc_code\Visual Studio_Code\list_prcatice\list_prcatice\bin\Debug\list_prcatice.exe
+D:\devc_code\Visual Studio_Code\list_prcatice\list_prcatice\bin\Debug\list_prcatice.pdb
+D:\devc_code\Visual Studio_Code\list_prcatice\list_prcatice\obj\Debug\list_prcatice.csprojResolveAssemblyReference.cache
+D:\devc_code\Visual Studio_Code\list_prcatice\list_prcatice\obj\Debug\list_prcatice.exe
+D:\devc_code\Visual Studio_Code\list_prcatice\list_prcatice\obj\Debug\list_prcatice.pdb
+D:\devc_code_3\-Compare-two-string-Arrays\Code\list_prcatice\bin\Debug\list_prcatice.exe.config
+D:\devc_code_3\-Compare-two-string-Arrays\Code\list_prcatice\bin\Debug\list_prcatice.exe
+D:\devc_code_3\-Compare-two-string-Arrays\Code\list_prcatice\bin\Debug\list_prcatice.pdb
+D:\devc_code_3\-Compare-two-string-Arrays\Code\list_prcatice\obj\Debug\list_prcatice.csprojResolveAssemblyReference.cache
+D:\devc_code_3\-Compare-two-string-Arrays\Code\list_prcatice\obj\Debug\list_prcatice.exe
+D:\devc_code_3\-Compare-two-string-Arrays\Code\list_prcatice\obj\Debug\list_prcatice.pdb
